@@ -106,4 +106,3 @@ class BirthdayDetailView(DetailView):
         return context
 
 
-
